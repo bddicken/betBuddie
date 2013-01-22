@@ -1,0 +1,6 @@
+[12-Nov-2012 20:38:24] PHP Fatal error:  Call to undefined function  buildtrtd() in /home/rtip/public_html/racing-game/php/tables.php on line 17
+[12-Nov-2012 20:58:47] PHP Fatal error:  Call to undefined method tableFetcher::buildTRTD() in /home/rtip/public_html/racing-game/php/tables.php on line 40
+[13-Nov-2012 10:14:40] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rtip/public_html/racing-game/php/tables.php on line 65
+[13-Nov-2012 10:15:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rtip/public_html/racing-game/php/tables.php on line 65
+[13-Nov-2012 10:15:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rtip/public_html/racing-game/php/tables.php on line 65
+[26-Nov-2012 01:08:37] PHP Fatal error:  Call to undefined function  addordinalnumbersuffix() in /home/rtip/public_html/racing-game/php/tables.php on line 178

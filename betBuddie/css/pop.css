@@ -1,0 +1,58 @@
+/*
+ * Style for the pop-up window warning box
+ */
+#puW {
+        display:inline-block;
+	position:fixed;
+	margin:5px;
+	padding:20px;
+	width:20%;
+	height:30%;
+	top:24%;
+	left:38%;
+	border:1px solid #999;
+	border-radius:15px;
+	-moz-box-shadow: 0px 0px 50px #000000;
+	-webkit-box-shadow: 0px 0px 50px #000000;
+	box-shadow: 0px 0px 50px #000000;
+	background: rgba(255, 170, 170, 1.0);
+}
+/*
+ * Style for the regular pop-up window box
+ */
+#pu {
+        display:inline-block;
+	position:fixed;
+	margin:5px;
+	padding:20px;
+	width:40%;
+	top:20%;
+	left:30%;
+	border:1px solid #999;
+	border-radius:15px;
+	-moz-box-shadow: 0px 0px 50px #000000;
+	-webkit-box-shadow: 0px 0px 50px #000000;
+	box-shadow: 0px 0px 50px #000000;
+	background: rgba(154, 219, 116, 1.0);
+}
+#exitButton {
+        float:right;
+	border-radius:8px;
+	font-size:12px;
+	background-color: rgba(0, 0, 0, .2);
+	padding:10px;
+	margin:8px;
+	border:1px solid #999;
+	color:#FFFFFF;
+}
+
+p.word {
+	font-weight: bold;
+}
+
+p.indent {
+	font-style: italic;
+}
+.click {
+	color: rgb(100, 200, 100);
+}
